@@ -7,6 +7,7 @@ Great for revision and for anyone learning HTML from scratch!
 
 - ✅ Introduction to HTML
 - ✅ Lecture 5: Basic forms and Fieldset
+- ✅ Example about a Form.
 - ✅ (Add more as you learn...)
 - ✅ More coming soon...
 
